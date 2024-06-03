@@ -12,11 +12,6 @@ Solidity Token is a simple Ethereum-based token smart contract that allows minti
 
 Deploy the 'MyToken' contract using your preferred Ethereum development environment.
 
-
-
-
-
-
 ## Usage/Examples
 
 ```javascript
@@ -25,7 +20,6 @@ myToken.mint(0xYourAddress, 100);
 ```javascript
 myToken.burn(0xYourAddress, 50);
 ```
-
 
 ## Authors
 
